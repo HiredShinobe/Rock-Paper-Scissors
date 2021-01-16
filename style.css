@@ -105,3 +105,22 @@ img {
   font-weight: bold;
   font-size: 20px;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 1em;
+  }
+  header {
+    display: none;
+  }
+  img {
+    width: 50px;
+    height: auto;
+  }
+  .result {
+    font-size: 1em;
+  }
+  #command-msg {
+    font-size: 1em;
+  }
+}
