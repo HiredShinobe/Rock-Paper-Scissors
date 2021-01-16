@@ -6,3 +6,5 @@ The main file (index.html, linked to js and css) is the advanced version with UI
 
 I still have to figure out how to reset the page and start a fresh round of game. 13.01.21
 
+The page is now responsive. 16.01.21
+
